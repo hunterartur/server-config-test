@@ -1,3 +1,2 @@
-spring:
-  config:
-    import: optional:http://localhost:8888
+server:
+  port: 9910
